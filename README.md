@@ -63,9 +63,13 @@ project/
 Below are some screenshots demonstrating the application's features and user interface. Please add your images in the spaces provided:
 
 ### Main Menu
-![Main Menu Screenshot](path/to/main_menu_screenshot.png)
+![Main Menu Screenshot]
+<img width="622" height="473" alt="Screenshot 2025-07-18 104131" src="https://github.com/user-attachments/assets/0aee38ad-10ba-4a9c-b2a1-fbf383b80037" />
+
 *Description: The main menu allows you to capture images, train a new model, test a model, clear all data, or quit the application.*
 
 ### Model Testing Interface
-![Model Testing Screenshot](path/to/model_testing_screenshot.png)
+![Model Testing Screenshot]
+<img width="1918" height="1020" alt="Screenshot 2025-07-18 105125" src="https://github.com/user-attachments/assets/7351ec85-d33d-49d8-9f30-adf1e74ed7c0" />
+
 *Description: The model testing interface lets you select a trained model, choose between webcam or image input, and displays the prediction result with the input image.*
